@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rio</h1>
 <h3 align="center">A Chef who is interested with Programming.</h3>
 
-- 🔪 I’m currently working as **"Chef"**
+- 🔪 I’m currently working as a **"Chef"**
 
 - 💬 Ask me about **Web Development Services, Food Consulting**
 
